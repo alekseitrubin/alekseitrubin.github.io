@@ -42,13 +42,16 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Invited Talks
+- February 2023. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia.
+- September 2022. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: B2B Wood European Summit, Poznan, Poland.
+- August 2022. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: 3.	ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
+
+## Contributed Presentations
+- June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: Forests´ Future, Zadar, Croatia.
+- June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: SPLIT Remote Sensing Summer School, Jihlava, Czech
+- August 2021. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: IBFRA, Online.
+- November 2020. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: Kostelecké inspirování, Online.
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
