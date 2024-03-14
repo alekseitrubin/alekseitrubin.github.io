@@ -16,7 +16,7 @@
 
 **Geospatial Analyst / GIS Research Assistant @ Landviser, LLC (_Mar 2021 - Feb 2024_)**
 - Enhanced site analysis accuracy to 91.7% by processing and integrating geophysical, LiDAR, and optical data during archaeological and environmental projects.
-- Boosted rice production yields in the Midwest by 22% through the innovative application of ML and AI techniques to analyze climate, soil, and vegetation remote sensing (RS) data, demonstrating effective crossdisciplinary expertise.
+- Boosted rice production yields in the Midwest by 22% through the innovative application of ML and AI techniques to analyze climate, soil, and vegetation remote sensing (RS) data, demonstrating effective cross-disciplinary expertise.
 - Reduced crop failure risks by 23.7% by developing climate change impact models for onions and sweet potatoes.
 - Achieved a 30% increase in client satisfaction and retention by conducting comprehensive reviews of the latest scientific methods and authoring four annual internal and public scientific reports, coupled with the production of 25 tailored client reports and dashboards annually.
 
