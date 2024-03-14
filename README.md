@@ -3,9 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Applied geoinformatics and remote sensing in forestry	| Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences  (_March 2024_)	 			        		
+- M.S., WOOD PROCESSiNG TECHNOLOGY | Northern Arctic Federal University (_June 2015_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
