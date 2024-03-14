@@ -9,13 +9,23 @@
 - M.S., WOOD PROCESSiNG TECHNOLOGY | Northern Arctic Federal University (_June 2015_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Researcher (R1) @ Czech University Of Life Sciences In Prague  (_Oct 2019 – Mar 2024_)**
+- Led and participated in 9 research projects as Project leader/manager and GIS manager/developer/specialist with 100% success rate.
+- Published 17 articles in top (D1, Q1) peer-reviewed journals, showcasing research interests in satellite and UAV Hyper- and Multispectral image processing, Remote sensing, GIS, Machine learning, Forestry, Bioeconomy, and Geoinformatics.
+- Awarded 3 fellowships and 5 academic rewards, including the Rector’s Prizes and Faculty Rewards, distinguishing in the top 1% of R1 researchers at the university for significant research contributions
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Geospatial Analyst / GIS Research Assistant @ Landviser, LLC (_Mar 2021 - Feb 2024_)**
+- Enhanced site analysis accuracy to 91.7% by processing and integrating geophysical, LiDAR, and optical data during archaeological and environmental projects.
+- Boosted rice production yields in the Midwest by 22% through the innovative application of ML and AI techniques to analyze climate, soil, and vegetation remote sensing (RS) data, demonstrating effective crossdisciplinary expertise.
+- Reduced crop failure risks by 23.7% by developing climate change impact models for onions and sweet potatoes.
+- Achieved a 30% increase in client satisfaction and retention by conducting comprehensive reviews of the latest scientific methods and authoring four annual internal and public scientific reports, coupled with the production of 25 tailored client reports and dashboards annually.
+
+**Forestry Lead Specialist  @ Titan Group (_Oct 2016 – Sept 2019_)**
+- Enhanced GIS resolution by 128 times, significantly boosting precision in forest and road management operations.
+-  Automated annual reporting for 3,000+ felling and reforestation sites, saving €20,000 annually.
+- Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a 92.9% annual average audit success rate.
+- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the conservation and preservation of 3.500 km2of intact forests.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
