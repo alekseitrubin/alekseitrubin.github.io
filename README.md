@@ -42,15 +42,23 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+\begin{cvpubs}
+{16. Karpov, A., Pirtskhalava-Karpova, N., \textbf{Trubin, A.}, Mezei, P., Potterf, M., Jakuš, R., 2024. Infestation patterns of two bark beetle species in multi-species coniferous forests on Kunashir Island in North Pacific Ocean region. Forest Ecology and Management 558, 121774. https://doi.org/10.1016/j.foreco.2024.121774
+}
+    \cvpub{15. \textbf{Trubin, A.}, 2024. The use of remote sensing imagery for the estimation of tree health characteristics related to bark beetle attack [online]. Praha, 2024 [cit. 2024-02-19]. Dostupné z: https://theses.cz/id/thi9s8/. Disertační práce. Česká zemědělská univerzita v Praze, Fakulta lesnická a dřevařská. Vedoucí práce doc. Ing. Peter Surový, PhD.}
+    \cvpub{14. Jakuš, R., \textbf{Trubin, A.}, Singh, V.V., Zabihi, K., Jirošová, A., Modlinger, R., Majdák, A., Korolyova, N., Moliterno, A.A.C., Kašpar, J., Slavík, M., Surový, P., Turčáni, M., Schlyter, F., 2024. Spruce Protection against Ips typographus with Anti-Attractant Blend of Tree-Based Semiochemicals: From Small Experimental Plots to Stand Scales. Forests 15, 356. https://doi.org/10.3390/f15020356}
+     \cvpub{13.	Pirtskhalava-Karpova, N., \textbf{Trubin, A.}, Karpov, A., Jakuš, R., 2024. Drought initialised bark beetle outbreak in Central Europe: Meteorological factors and infestation dynamic. Forest Ecology and Management 554, 121666.}
+     \cvpub{12. Jakuš, R., Kašpar J., R., Jirošová, A., Modlinger, R., \textbf{Trubin, A.}, Korolyova, N., Löwe, R., Turčáni, M. (2024) Metodika pro optimalizaci použití anti-atraktantů v závislosti na množství instalovaných feromonových lapačů. Praha. 52 s.}
+    \cvpub{11.	Pozdnyakova, L., \textbf{Trubin, A.}, Orunbaev, S., Manstein, Y., Umarova, A., 2023. In-field Assessment of Soil Salinity and Water Content with Electrical Geophysics. Moscow Univ. Soil Sci. Bull. 78, 451–460.}
+    \cvpub{10.	Jakuš, R., \textbf{Trubin, A.}, Korolyova, N., Löwe, R., Turčáni, M. (2023) Metodika pro identifikaci smrkůrezistentních vůči náletu podkorního hmyzu. Certifikovaná metodika. Praha. 52 s.}
+    \cvpub{9.	Golovko, L., \textbf{Trubin, A.}, Orunbaev, S., Manstein, Y., Pozdnyakova, L.,  Rusakov A., Simonova Y. (2023) In-field assessment of soil and water salinity with geophysics and geostatistics. FAO. 2023. Proceedings of the Second Meeting of the International Network of Salt-Affected Soils (INSAS) – Managing salt-affected soils for a sustainable future. Rome. https://doi.org/10.4060/cc7887en}
+    \cvpub{8.	Zabihi, K., Singh, V.V., \textbf{Trubin, A.}, Tomášková, I., Blaženec, M., Surový, P., Jakuš, R., 2023. Sap flow as a function of variables within nested scales: ordinary least squares vs. spatial regression models. Environ. Res.: Ecology 2, 025002.}
+    \cvpub{7.	Golovko, L., Manstein, Y., \textbf{Trubin, A.}, 2023. Aerial and On-the-Ground Geophysical Methods for Detecting Subsurface Anomalies of Anthropogenic Origin. 35th Symposium on the Application of Geophysics to Engineering and Environmental Problems (SAGEEP), Proceedings.}
+    \cvpub{6.	\textbf{Trubin, A.}, Kozhoridze, G., Zabihi, K., Modlinger, R., Singh, V.V., Surový, P., Jakuš, R., 2023. Detection of susceptible Norway spruce to bark beetle attack using PlanetScope multispectral imagery. Front. For. Glob. Change 6, 1130721.}
+    \cvpub{5.	\textbf{Trubin, A.}, Mezei, P., Zabihi, K., Surový, P., Jakuš, R., 2022. Northernmost European spruce bark beetle Ips typographus outbreak: Modelling tree mortality using remote sensing and climate data. Forest Ecology and Management 505, 119829.}
+    \cvpub{4.	\textbf{Trubin, A.}, Manstein, Y., Golovko, L., 2022. Electrical Geophysics for Agronomic Soil Characterization. MCDA 11.
+    \cvpub{3.	Zabihi, K., Surovy, P., \textbf{Trubin, A.}, Singh, V.V., Jakuš, R., 2021. A review of major factors influencing the accuracy of mapping green-attack stage of bark beetle infestations using satellite imagery: Prospects to avoid data redundancy. Remote Sensing Applications: Society and Environment 24, 100638.}
+    \cvpub{2.	Berlina, A., \textbf{Trubin, A.}, 2019. Transition to a bioeconomy in Northwest Russia: regional cases of the Republic of Karelia and Murmansk oblast. Nordregio.}
+    \cvpub{1.	Berlina, A., \textbf{Trubin, A.}, 2018. Bioeconomy in Northwest Russian region. Nordic Council of Ministers.}
 
-- [Data Science Blog](https://medium.com/@shawhin)
 
