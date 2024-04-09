@@ -68,14 +68,7 @@
 - Achieved a 30% increase in client satisfaction and retention by conducting comprehensive reviews of the latest scientific methods and authoring four annual internal and public scientific reports, coupled with the production of 25 tailored client reports and dashboards annually.
 
 **Forestry Lead Specialist**  @ Titan Group (_Oct 2016 – Sept 2019_)
-- Enhanced GIS resolution by 128 times, significantly boosting precision in forest and road management operations.
--  Automated annual reporting for 3,000+ felling and reforestation sites, saving €20,000 annually.
-- Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a 92.9% annual average audit success rate.
-- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the conservation and preservation of 3.500 km2 of intact forests.
-
-
-
-## References
-- **Dr Peter Surový** ‑ Czech University of Life Sciences Prague, surovy@fld.czu.cz
-- **Dr Rastislav Jakuš** ‑ Institute of Forest Ecology, Slovak Academy of Sciences, rasti.jakus@gmail.com
-- **Dr Larisa Golovko** ‑ Landviser LLC, info@landviser.net
+- Enhanced GIS resolution by **128 times**, significantly boosting precision in forest and road management operations.
+-  Automated annual reporting for 3,000+ felling and reforestation sites, saving **€20,000 annually**.
+- Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a **92.9% annual average audit success rate**.
+- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the **conservation of 3.500 km2** of intact forests.
