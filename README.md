@@ -7,6 +7,8 @@
 
 ## Education
 - Ph.D., Applied geoinformatics and remote sensing in forestry	| Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences  (_March 2024_)	 			        		
+- Python Data Science, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda)  (_2023_)	 			        		
+- Ecological Data Processing (R programming and statistics course), CZU   (_2021_)	 			        		
 - M.S., WOOD PROCESSiNG TECHNOLOGY | Northern Arctic Federal University (_June 2015_)
 
 ## Work Experience
@@ -28,9 +30,9 @@
 - Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the conservation and preservation of 3.500 km2of intact forests.
 
 ## Invited Talks
-- February 2023. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
-- September 2022. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: B2B Wood European Summit, Poznan, Poland.
-- August 2022. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: 3.	ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
+- February 2023. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
+- September 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: B2B Wood European Summit, Poznan, Poland.
+- August 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
 
 ## Contributed Presentations
 - June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: Forests´ Future, Zadar, Croatia.
