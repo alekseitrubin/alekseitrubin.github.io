@@ -1,8 +1,8 @@
 # Data Scientist
 
-#**GIS & RS**: QGIS, ESRI ArcGIS Pro, Online, PostGIS, GRASS GIS, ERDAS, SNAP, Agisoft Metashape, CloudCompare, ENVI, Headwall, Orfeo ToolBox, Res1D, Res2DInv, Res3DInv, Google Earth Engine, Mapbox, Leaflet.
-#**Programming**: Python (pandas, numpy, xarray, rioxarray, GDAL, shapely, geopandas, rasterio, scipy, scikit-learn, matplotlib, seaborn, plotly, dash, arcpy), R, SQL, Power BI, Tableau, Docker, GitHub, Jupiter, VSCode, Linux, Microsoft Office (VBA), Jira, Agile.
-#**Languages**: English: Advanced (C1), German, Czech, French - Elementary (A1), Russian - Native.
+# **GIS & RS**: QGIS, ESRI ArcGIS Pro, Online, PostGIS, GRASS GIS, ERDAS, SNAP, Agisoft Metashape, CloudCompare, ENVI, Headwall, Orfeo ToolBox, Res1D, Res2DInv, Res3DInv, Google Earth Engine, Mapbox, Leaflet.
+# **Programming**: Python (pandas, numpy, xarray, rioxarray, GDAL, shapely, geopandas, rasterio, scipy, scikit-learn, matplotlib, seaborn, plotly, dash, arcpy), R, SQL, Power BI, Tableau, Docker, GitHub, Jupiter, VSCode, Linux, Microsoft Office (VBA), Jira, Agile.
+# **Languages**: English: Advanced (C1), German, Czech, French - Elementary (A1), Russian - Native.
 
 
 ## Education
