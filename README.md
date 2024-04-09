@@ -28,7 +28,7 @@
 - Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the conservation and preservation of 3.500 km2of intact forests.
 
 ## Invited Talks
-- February 2023. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia.
+- February 2023. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
 - September 2022. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: B2B Wood European Summit, Poznan, Poland.
 - August 2022. \textit{Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: 3.	ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
 
@@ -37,8 +37,6 @@
 - June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: SPLIT Remote Sensing Summer School, Jihlava, Czech
 - August 2021. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: IBFRA, Online.
 - November 2020. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: Kostelecké inspirování, Online.
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 17. [**Trubin, A.**, Kozhoridze, G., Zabihi, K., Modlinger, R., Singh, V.V., Surový, P., Jakuš, R., 2024. Detection of green attack and bark beetle susceptibility in Norway Spruce: Utilizing PlanetScope Multispectral Imagery for Tri-Stage spectral separability analysis. Forest Ecology and Management 560, 121838.](https://doi.org/10.1016/j.foreco.2024.121838)
