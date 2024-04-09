@@ -61,13 +61,15 @@
 - Published 17 articles in top (D1, Q1) peer-reviewed journals, showcasing research interests in satellite and UAV Hyper- and Multispectral image processing, Remote sensing, GIS, Machine learning, Forestry, Bioeconomy, and Geoinformatics.
 - Awarded 3 fellowships and 5 academic rewards, including the Rector’s Prizes and Faculty Rewards, distinguishing in the top 1% of R1 researchers at the university for significant research contributions
 
-**Geospatial Analyst / GIS Research Assistant** @ Landviser, LLC (_Mar 2021 - Feb 2024_)
+**Geospatial Data Scientist** @ Landviser, LLC (_Mar 2022 - Feb 2024_)
+**GIS Research Assistant** @ Landviser, LLC (_Mar 2021 - Mar 2022_)
 - Enhanced site analysis accuracy to 91.7% by processing and integrating geophysical, LiDAR, and optical data during archaeological and environmental projects.
 - Boosted rice production yields in the Midwest by 22% through the innovative application of ML and AI techniques to analyze climate, soil, and vegetation remote sensing (RS) data, demonstrating effective cross-disciplinary expertise.
 - Reduced crop failure risks by 23.7% by developing climate change impact models for onions and sweet potatoes.
 - Achieved a 30% increase in client satisfaction and retention by conducting comprehensive reviews of the latest scientific methods and authoring four annual internal and public scientific reports, coupled with the production of 25 tailored client reports and dashboards annually.
 
-**Forestry Lead Specialist**  @ Titan Group (_Oct 2016 – Sept 2019_)
+**Forestry Lead Specialist**  @ Titan Group (_Oct 2017 - Sept 2019_)
+**FSC certification expert**  @ Titan Group (_May 2016 - Oct 2017_)
 - Enhanced GIS resolution by **128 times**, significantly boosting precision in forest and road management operations.
 -  Automated annual reporting for 3,000+ felling and reforestation sites, saving **€20,000 annually**.
 - Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a **92.9% annual average audit success rate**.
