@@ -6,10 +6,12 @@
 
 
 ## Education
-- **Ph.D.**, Applied geoinformatics and remote sensing in forestry,  | Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences  |  (_March 2024_)	
-- **Python Data Science**, | IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda)  |  (_2023_)	 			        		
-- **Ecological Data Processing** (R programming and statistics course),  | CZU   |  (_2021_)	 			        		
-- **M.S.**,  | WOOD PROCESSiNG TECHNOLOGY, Northern Arctic Federal University  | (_June 2015_)
+- **Ph.D.**, Applied geoinformatics and remote sensing in forestry, Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences, (_2019-2024_)	
+- **M.S.**, WOOD PROCESSiNG TECHNOLOGY, Northern Arctic Federal University, (_2010-2015_)
+
+## Courses
+- **Python Data Science**, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_	        	
+- **Ecological Data Processing** (R programming and statistics course), CZU, _2021_
 
 ## Work Experience
 **Researcher (R1) @ Czech University Of Life Sciences In Prague  (_Oct 2019 – Mar 2024_)**
