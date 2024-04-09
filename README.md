@@ -1,10 +1,16 @@
 # Academia CV
 
-
-
 ## Education
 - **Ph.D.**, Applied geoinformatics and remote sensing in forestry, Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences, (_2019-2024_)	
 - **M.S.**, WOOD PROCESSiNG TECHNOLOGY, Northern Arctic Federal University, (_2010-2015_)
+
+## Professional Experience
+- **Researcher (R1)**, Czech University Of Life Sciences Prague, (_2019-2024_)	
+- **Geospatial Data Scientist**,  Landviser, LLC, (_2022-2024_)
+- **GIS Research Assistant**,  Landviser, LLC, (_2021-2022_)
+- **Visiting Research Fellow**,  Institute of Forest Ecology, Slovak Academy of Sciences, (_2023_)
+- **Forestry Lead Specialist**, Titan, (_2017-2019_)
+- **FSC certification expert**, Titan, (_2016-2017_)
 
 ## Courses
 - **Python Data Science**, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_	        	
