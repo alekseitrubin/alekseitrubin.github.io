@@ -12,21 +12,6 @@
 - **Forestry Lead Specialist**, Titan, (_2017-2019_)
 - **FSC certification expert**, Titan, (_2016-2017_)
 
-## Courses
-- **Python Data Science**, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_	        	
-- **Ecological Data Processing** (R programming and statistics course), CZU, _2021_
-
-## Invited Talks
-- February 2023. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
-- September 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: B2B Wood European Summit, Poznan, Poland.
-- August 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
-
-## Contributed Presentations
-- June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: Forests´ Future, Zadar, Croatia.
-- June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: SPLIT Remote Sensing Summer School, Jihlava, Czech
-- August 2021. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: IBFRA, Online.
-- November 2020. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: Kostelecké inspirování, Online.
-
 ## Publications
 17. [**Trubin, A.**, Kozhoridze, G., Zabihi, K., Modlinger, R., Singh, V.V., Surový, P., Jakuš, R., 2024. Detection of green attack and bark beetle susceptibility in Norway Spruce: Utilizing PlanetScope Multispectral Imagery for Tri-Stage spectral separability analysis. Forest Ecology and Management 560, 121838.](https://doi.org/10.1016/j.foreco.2024.121838)
 16. [Karpov, A., Pirtskhalava-Karpova, N., **Trubin, A.**, Mezei, P., Potterf, M., Jakuš, R., 2024. Infestation patterns of two bark beetle species in multi-species coniferous forests on Kunashir Island in North Pacific Ocean region. Forest Ecology and Management 558, 121774.](https://doi.org/10.1016/j.foreco.2024.121774)
@@ -45,6 +30,25 @@
 3.	[Zabihi, K., Surovy, P., **Trubin, A.**, Singh, V.V., Jakuš, R., 2021. A review of major factors influencing the accuracy of mapping green-attack stage of bark beetle infestations using satellite imagery: Prospects to avoid data redundancy. Remote Sensing Applications: Society and Environment 24, 100638.](http://dx.doi.org/10.1016/j.rsase.2021.100638)
 2.	[Berlina, A., **Trubin, A.**, 2019. Transition to a bioeconomy in Northwest Russia: regional cases of the Republic of Karelia and Murmansk oblast. Nordregio.](http://dx.doi.org/10.30689/R2019:10.1403-2503)
 1.	[Berlina, A., **Trubin, A.**, 2018. Bioeconomy in Northwest Russian region. Nordic Council of Ministers.](https://norden.diva-portal.org/smash/record.jsf?pid=diva2%3A1210615&dswid=4986)
+
+
+
+
+## Invited Talks
+- February 2023. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
+- September 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: B2B Wood European Summit, Poznan, Poland.
+- August 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
+
+## Contributed Presentations
+- June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: Forests´ Future, Zadar, Croatia.
+- June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: SPLIT Remote Sensing Summer School, Jihlava, Czech
+- August 2021. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: IBFRA, Online.
+- November 2020. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: Kostelecké inspirování, Online.
+
+## Courses
+- **Python Data Science**, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_	        	
+- **Ecological Data Processing** (R programming and statistics course), CZU, _2021_
+
 
 ## Skills
 - **GIS & RS**: QGIS, ESRI ArcGIS Pro, Online, PostGIS, GRASS GIS, ERDAS, SNAP, Agisoft Metashape, CloudCompare, ENVI, Headwall, Orfeo ToolBox, Res1D, Res2DInv, Res3DInv, Google Earth Engine, Mapbox, Leaflet.
