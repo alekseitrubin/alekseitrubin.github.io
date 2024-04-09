@@ -1,8 +1,5 @@
-# Data Scientist
+# Academia CV
 
-- **GIS & RS**: QGIS, ESRI ArcGIS Pro, Online, PostGIS, GRASS GIS, ERDAS, SNAP, Agisoft Metashape, CloudCompare, ENVI, Headwall, Orfeo ToolBox, Res1D, Res2DInv, Res3DInv, Google Earth Engine, Mapbox, Leaflet.
-- **Programming**: Python (pandas, numpy, xarray, rioxarray, GDAL, shapely, geopandas, rasterio, scipy, scikit-learn, matplotlib, seaborn, plotly, dash, arcpy), R, SQL, Power BI, Tableau, Docker, GitHub, Jupiter, VSCode, Linux, Microsoft Office (VBA), Jira, Agile.
-- **Languages**: English: Advanced (C1), German, Czech, French - Elementary (A1), Russian - Native.
 
 
 ## Education
@@ -12,24 +9,6 @@
 ## Courses
 - **Python Data Science**, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_	        	
 - **Ecological Data Processing** (R programming and statistics course), CZU, _2021_
-
-## Work Experience
-**Researcher (R1) @ Czech University Of Life Sciences In Prague  (_Oct 2019 – Mar 2024_)**
-- Led and participated in 9 research projects as Project leader/manager and GIS manager/developer/specialist with 100% success rate.
-- Published 17 articles in top (D1, Q1) peer-reviewed journals, showcasing research interests in satellite and UAV Hyper- and Multispectral image processing, Remote sensing, GIS, Machine learning, Forestry, Bioeconomy, and Geoinformatics.
-- Awarded 3 fellowships and 5 academic rewards, including the Rector’s Prizes and Faculty Rewards, distinguishing in the top 1% of R1 researchers at the university for significant research contributions
-
-**Geospatial Analyst / GIS Research Assistant @ Landviser, LLC (_Mar 2021 - Feb 2024_)**
-- Enhanced site analysis accuracy to 91.7% by processing and integrating geophysical, LiDAR, and optical data during archaeological and environmental projects.
-- Boosted rice production yields in the Midwest by 22% through the innovative application of ML and AI techniques to analyze climate, soil, and vegetation remote sensing (RS) data, demonstrating effective cross-disciplinary expertise.
-- Reduced crop failure risks by 23.7% by developing climate change impact models for onions and sweet potatoes.
-- Achieved a 30% increase in client satisfaction and retention by conducting comprehensive reviews of the latest scientific methods and authoring four annual internal and public scientific reports, coupled with the production of 25 tailored client reports and dashboards annually.
-
-**Forestry Lead Specialist  @ Titan Group (_Oct 2016 – Sept 2019_)**
-- Enhanced GIS resolution by 128 times, significantly boosting precision in forest and road management operations.
--  Automated annual reporting for 3,000+ felling and reforestation sites, saving €20,000 annually.
-- Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a 92.9% annual average audit success rate.
-- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the conservation and preservation of 3.500 km2of intact forests.
 
 ## Invited Talks
 - February 2023. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
@@ -60,3 +39,33 @@
 3.	[Zabihi, K., Surovy, P., **Trubin, A.**, Singh, V.V., Jakuš, R., 2021. A review of major factors influencing the accuracy of mapping green-attack stage of bark beetle infestations using satellite imagery: Prospects to avoid data redundancy. Remote Sensing Applications: Society and Environment 24, 100638.](http://dx.doi.org/10.1016/j.rsase.2021.100638)
 2.	[Berlina, A., **Trubin, A.**, 2019. Transition to a bioeconomy in Northwest Russia: regional cases of the Republic of Karelia and Murmansk oblast. Nordregio.](http://dx.doi.org/10.30689/R2019:10.1403-2503)
 1.	[Berlina, A., **Trubin, A.**, 2018. Bioeconomy in Northwest Russian region. Nordic Council of Ministers.](https://norden.diva-portal.org/smash/record.jsf?pid=diva2%3A1210615&dswid=4986)
+
+## Skills
+- **GIS & RS**: QGIS, ESRI ArcGIS Pro, Online, PostGIS, GRASS GIS, ERDAS, SNAP, Agisoft Metashape, CloudCompare, ENVI, Headwall, Orfeo ToolBox, Res1D, Res2DInv, Res3DInv, Google Earth Engine, Mapbox, Leaflet.
+- **Programming**: Python (pandas, numpy, xarray, rioxarray, GDAL, shapely, geopandas, rasterio, scipy, scikit-learn, matplotlib, seaborn, plotly, dash, arcpy), R, SQL, Power BI, Tableau, Docker, GitHub, Jupiter, VSCode, Linux, Microsoft Office (VBA), Jira, Agile.
+- **Languages**: English: Advanced (C1), German, Czech, French - Elementary (A1), Russian - Native.
+
+## Work Experience
+**Researcher (R1)** @ Czech University Of Life Sciences In Prague  (_Oct 2019 – Mar 2024_)
+- Led and participated in 9 research projects as Project leader/manager and GIS manager/developer/specialist with 100% success rate.
+- Published 17 articles in top (D1, Q1) peer-reviewed journals, showcasing research interests in satellite and UAV Hyper- and Multispectral image processing, Remote sensing, GIS, Machine learning, Forestry, Bioeconomy, and Geoinformatics.
+- Awarded 3 fellowships and 5 academic rewards, including the Rector’s Prizes and Faculty Rewards, distinguishing in the top 1% of R1 researchers at the university for significant research contributions
+
+**Geospatial Analyst / GIS Research Assistant** @ Landviser, LLC (_Mar 2021 - Feb 2024_)
+- Enhanced site analysis accuracy to 91.7% by processing and integrating geophysical, LiDAR, and optical data during archaeological and environmental projects.
+- Boosted rice production yields in the Midwest by 22% through the innovative application of ML and AI techniques to analyze climate, soil, and vegetation remote sensing (RS) data, demonstrating effective cross-disciplinary expertise.
+- Reduced crop failure risks by 23.7% by developing climate change impact models for onions and sweet potatoes.
+- Achieved a 30% increase in client satisfaction and retention by conducting comprehensive reviews of the latest scientific methods and authoring four annual internal and public scientific reports, coupled with the production of 25 tailored client reports and dashboards annually.
+
+**Forestry Lead Specialist**  @ Titan Group (_Oct 2016 – Sept 2019_)
+- Enhanced GIS resolution by 128 times, significantly boosting precision in forest and road management operations.
+-  Automated annual reporting for 3,000+ felling and reforestation sites, saving €20,000 annually.
+- Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a 92.9% annual average audit success rate.
+- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the conservation and preservation of 3.500 km2 of intact forests.
+
+
+
+## References
+- **Dr Peter Surový** ‑ Czech University of Life Sciences Prague, surovy@fld.czu.cz
+- **Dr Rastislav Jakuš** ‑ Institute of Forest Ecology, Slovak Academy of Sciences, rasti.jakus@gmail.com
+- **Dr Larisa Golovko** ‑ Landviser LLC, info@landviser.net
