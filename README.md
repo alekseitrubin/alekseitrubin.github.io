@@ -2,7 +2,7 @@
 
 ## Education
 - **Ph.D.**, Applied geoinformatics and remote sensing in forestry, Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences, (_2019-2024_)	
-- **M.S.**, WOOD PROCESSiNG TECHNOLOGY, Northern Arctic Federal University, (_2010-2015_)
+- **M.S.**, Wood processing, Forestry Institute, Northern Arctic Federal University, (_2010-2015_)
 
 ## Professional Experience
 - **Researcher (R1)**, Czech University Of Life Sciences Prague, (_2019-2024_)	
