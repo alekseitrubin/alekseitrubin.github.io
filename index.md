@@ -2,7 +2,7 @@
 
 Welcome to my tech portfolio and CV. Click below to see my academic work.
 
-[Go to Academia](/academic/)
+[Go to Academia CV](/academic/)
 
 
 Prague, Czech Republic  
