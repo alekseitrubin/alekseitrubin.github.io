@@ -5,12 +5,12 @@ Welcome to my tech portfolio and CV. Click below to see my academic work.
 [Go to Academia](/academic/)
 
 
-Prague, Czech Republic
-[trubin.a@outlook.com](mailto:trubin.a@outlook.com)
-[+420 774 511 297](tel:+420774511297)
-[LinkedIn](https://www.linkedin.com/in/aleksei-trubin/)
-[ResearchGate](https://www.researchgate.net/profile/Aleksei-Trubin)
-[GitHub](https://github.com/alekseitrubin)
+Prague, Czech Republic  
+[trubin.a@outlook.com](mailto:trubin.a@outlook.com)  
+[+420 774 511 297](tel:+420774511297). 
+[LinkedIn](https://www.linkedin.com/in/aleksei-trubin/)  
+[ResearchGate](https://www.researchgate.net/profile/Aleksei-Trubin)  
+[GitHub](https://github.com/alekseitrubin)  
 
 ### Summary
 
