@@ -1,5 +1,20 @@
-title: Aleksei Trubin, Ph.D.
-logo: /assets/img/headshot_circle.jpg
-description: false
-show_downloads: false
-theme: jekyll-theme-minimal
+title: Aleksei Trubin — Geospatial Data Engineer & Data Scientist
+description: Geospatial data engineer and data scientist in Prague building PostGIS systems, Earth Observation pipelines, remote sensing workflows, and Python data products.
+url: https://alekseitrubin.github.io
+baseurl: ""
+lang: en
+author:
+  name: Aleksei Trubin
+  email: trubin.a@outlook.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts

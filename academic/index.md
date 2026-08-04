@@ -1,14 +1,23 @@
-# Academia CV
+---
+layout: default
+title: Academic CV — Aleksei Trubin
+description: Academic CV, publications, research experience, and invited talks by geospatial researcher Aleksei Trubin.
+permalink: /academic/
+---
+
+# Academic CV
+
+Applied geoinformatics, remote sensing, forest disturbance, and environmental analytics. For selected engineering projects and professional experience, return to the [portfolio homepage](/).
 
 ## Education
 - **Ph.D.**, Applied geoinformatics and remote sensing in forestry, Czech University Of Life Sciences Prague, Faculty of Forestry and Wood Sciences, (_2019-2024_)	
 - **M.S.**, Wood processing, Forestry Institute, Northern Arctic Federal University, (_2010-2015_)
 
 ## Professional Experience
-- **Researcher (R1)**, Czech University Of Life Sciences Prague, (_2019-2024_)	
-- **Geospatial Data Scientist**,  Landviser, LLC, (_2022-2024_)
-- **GIS Research Assistant**,  Landviser, LLC, (_2021-2022_)
-- **Visiting Research Fellow**,  Institute of Forest Ecology, Slovak Academy of Sciences, (_2023_)
+- **Researcher (R1)**, Czech University of Life Sciences Prague, (_2019–2024_)
+- **Geospatial Data Scientist**, Landviser, LLC, (_2022–2024_)
+- **GIS Research Assistant**, Landviser, LLC, (_2021–2022_)
+- **Visiting Research Fellow**, Institute of Forest Ecology, Slovak Academy of Sciences, (_2023_)
 - **Forestry Lead Specialist**, Titan, (_2017-2019_)
 - **FSC certification expert**, Titan, (_2016-2017_)
 
@@ -35,7 +44,7 @@
 
 
 ## Invited Talks
-- February 2023. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery}. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://youtu.be/0J84WCzoqGU?si=J4CMBTXxK48yKBvu)))
+- February 2023. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet multispectral imagery. Invited talk: Advances in new sensors and data processing development related to forest disturbance ecology, Zvolen, Slovakia. [YouTube](https://youtu.be/0J84WCzoqGU)
 - September 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: B2B Wood European Summit, Poznan, Poland.
 - August 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Invited talk: ForestSAT 2022 (Planet Labs Workshop), Berlin, Germany.
 
@@ -43,23 +52,23 @@
 - June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: Forests´ Future, Zadar, Croatia.
 - June 2022. Vegetation index monitoring of bark beetle attack in Norway spruce forests of Central Europe using Planet Multispectral Imagery. Poster: SPLIT Remote Sensing Summer School, Jihlava, Czech
 - August 2021. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: IBFRA, Online.
-- November 2020. Northernmost European spruce bark beetle Ips typographus outbreak: satellite-derived tree mortality analyzes. Oral presentation: Kostelecké inspirování, Online.
+- November 2020. Northernmost European spruce bark beetle *Ips typographus* outbreak: satellite-derived tree mortality analyses. Oral presentation: Kostelecké inspirování, online.
 
 ## Courses
-- **Python Data Science**, IBM [Professional Certificate]({https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_	        	
+- **Python Data Science**, IBM [Professional Certificate](https://credentials.edx.org/credentials/5973ba29bf4344418d0a6d9bc943aeda), _2023_
 - **Ecological Data Processing** (R programming and statistics course), CZU, _2021_
 
 
 ## Skills
 - **GIS & RS**: QGIS, ESRI ArcGIS Pro, Online, PostGIS, GRASS GIS, ERDAS, SNAP, Agisoft Metashape, CloudCompare, ENVI, Headwall, Orfeo ToolBox, Res1D, Res2DInv, Res3DInv, Google Earth Engine, Mapbox, Leaflet.
-- **Programming**: Python (pandas, numpy, xarray, rioxarray, GDAL, shapely, geopandas, rasterio, scipy, scikit-learn, matplotlib, seaborn, plotly, dash, arcpy), R, SQL, Power BI, Tableau, Docker, GitHub, Jupiter, VSCode, Linux, Microsoft Office (VBA), Jira, Agile.
-- **Languages**: English: Advanced (C1), German, Czech, French - Elementary (A1), Russian - Native.
+- **Programming**: Python (pandas, NumPy, xarray, rioxarray, GDAL, Shapely, GeoPandas, Rasterio, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Dash, ArcPy), R, SQL, Power BI, Tableau, Docker, GitHub, Jupyter, VS Code, Linux, Microsoft Office (VBA), Jira, Agile.
+- **Languages**: English — Advanced (C1); Russian — Native; German, Czech, and French — Elementary (A1).
 
 ## Work Experience
-**Researcher (R1)** @ Czech University Of Life Sciences In Prague  (_Oct 2019 – Mar 2024_)
-- Led and participated in 9 research projects as Project leader/manager and GIS manager/developer/specialist with 100% success rate.
-- Published 17 articles in top (D1, Q1) peer-reviewed journals, showcasing research interests in satellite and UAV Hyper- and Multispectral image processing, Remote sensing, GIS, Machine learning, Forestry, Bioeconomy, and Geoinformatics.
-- Awarded 3 fellowships and 5 academic rewards, including the Rector’s Prizes and Faculty Rewards, distinguishing in the top 1% of R1 researchers at the university for significant research contributions
+**Researcher (R1)** @ Czech University of Life Sciences Prague (_Oct 2019 – Mar 2024_)
+- Led or contributed to nine research projects as a project lead, manager, or GIS specialist; all were completed successfully.
+- Published 17 articles in D1/Q1 peer-reviewed journals, with work spanning satellite and UAV imagery, remote sensing, GIS, machine learning, forestry, bioeconomy, and geoinformatics.
+- Received three fellowships and five academic awards, including Rector’s and Faculty awards, placing in the top 1% of R1 researchers at the university for research contributions.
 
 **Geospatial Data Scientist** @ Landviser, LLC (_Mar 2022 - Feb 2024_)
 
@@ -75,4 +84,4 @@
 - Enhanced GIS resolution by **128 times**, significantly boosting precision in forest and road management operations.
 -  Automated annual reporting for 3,000+ felling and reforestation sites, saving **€20,000 annually**.
 - Represented 14 subsidiaries, ensuring FSC and PEFC compliance with a **92.9% annual average audit success rate**.
-- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the **conservation of 3.500 km2** of intact forests.
+- Orchestrated collaborative efforts among NGOs to implement High Conservation Value Forest (HCVF) moratoriums, resulting in the **conservation of 3,500 km²** of intact forests.
