@@ -16,12 +16,14 @@
     <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:site_name" content="Aleksei Trubin">
-    <meta property="og:image" content="{{ '/assets/img/og-card.png' | absolute_url }}">
-    <meta property="og:image:alt" content="Aleksei Trubin — Geospatial Data Engineer and Data Scientist">
+    <meta property="og:image" content="{{ '/assets/img/og-card-geospatial.png' | absolute_url }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aleksei Trubin — Geospatial Data Engineer and Earth Observation specialist">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
     <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
-    <meta name="twitter:image" content="{{ '/assets/img/og-card.png' | absolute_url }}">
+    <meta name="twitter:image" content="{{ '/assets/img/og-card-geospatial.png' | absolute_url }}">
     {% if page.url == '/404.html' %}<meta name="robots" content="noindex">{% endif %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -34,7 +36,8 @@
       "name": "Aleksei Trubin",
       "url": "{{ site.url }}",
       "image": "{{ '/assets/img/headshot_circle.jpg' | absolute_url }}",
-      "jobTitle": "Geospatial Data Engineer and Data Scientist",
+      "jobTitle": "Geospatial Data Engineer",
+      "knowsAbout": ["Earth Observation", "PostGIS", "Databricks", "Remote Sensing", "Geospatial Data Engineering"],
       "email": "mailto:trubin.a@outlook.com",
       "address": {
         "@type": "PostalAddress",
@@ -72,8 +75,8 @@
             <a href="{{ '/' | relative_url }}#research">Research</a>
             <a href="{{ '/' | relative_url }}#about">About</a>
             <span class="nav-divider" aria-hidden="true"></span>
-            <a class="nav-external" href="https://github.com/alekseitrubin" rel="me" aria-label="GitHub profile">GitHub <span aria-hidden="true">↗</span></a>
-            <a class="nav-external" href="https://www.linkedin.com/in/aleksei-trubin/" rel="me" aria-label="LinkedIn profile">LinkedIn <span aria-hidden="true">↗</span></a>
+            <a class="nav-external" href="https://github.com/alekseitrubin" target="_blank" rel="me noopener noreferrer" aria-label="GitHub profile">GitHub <span aria-hidden="true">↗</span></a>
+            <a class="nav-external" href="https://www.linkedin.com/in/aleksei-trubin/" target="_blank" rel="me noopener noreferrer" aria-label="LinkedIn profile">LinkedIn <span aria-hidden="true">↗</span></a>
           </nav>
         </details>
       </div>
@@ -94,8 +97,8 @@
         </div>
         <nav aria-label="Footer navigation">
           <a href="mailto:trubin.a@outlook.com">Email</a>
-          <a href="https://www.linkedin.com/in/aleksei-trubin/" rel="me">LinkedIn</a>
-          <a href="https://github.com/alekseitrubin" rel="me">GitHub</a>
+          <a href="https://www.linkedin.com/in/aleksei-trubin/" target="_blank" rel="me noopener noreferrer">LinkedIn</a>
+          <a href="https://github.com/alekseitrubin" target="_blank" rel="me noopener noreferrer">GitHub</a>
           <a href="{{ '/academic/' | relative_url }}">Academic CV</a>
         </nav>
       </div>

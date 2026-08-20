@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Aleksei Trubin — Geospatial Data Engineer & Data Scientist
-description: Geospatial data engineer and data scientist in Prague building PostGIS systems, Earth Observation pipelines, remote sensing workflows, and Python data products.
+title: Aleksei Trubin — Geospatial Data Engineer · Earth Observation
+description: Geospatial Data Engineer in Prague building production PostGIS and Databricks systems, Earth Observation pipelines, and spatial data products.
 permalink: /
 ---
 
@@ -9,13 +9,14 @@ permalink: /
   <div class="hero__copy">
     <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Prague, Czech Republic</p>
     <h1 id="hero-title">Aleksei Trubin</h1>
-    <p class="hero__role">Geospatial Data Engineer <span aria-hidden="true">·</span> Data Scientist</p>
-    <p class="hero__lede">I build geospatial data systems, Earth Observation pipelines, and data products—from PostGIS and Databricks infrastructure to satellite and drone analytics.</p>
+    <p class="hero__role">Geospatial Data Engineer <span aria-hidden="true">·</span> Earth Observation</p>
+    <p class="hero__statement">I build production data systems around spatial data.</p>
+    <p class="hero__lede">PostGIS and Databricks infrastructure, satellite analytics, ML pipelines, and geospatial products.</p>
+    <p class="hero__context">Ph.D. Applied Geoinformatics <span aria-hidden="true">·</span> Prague</p>
     <div class="hero__actions" aria-label="Primary links">
-      <a class="button button--primary" href="#projects">View projects</a>
-      <a class="button" href="https://github.com/alekseitrubin" rel="me">GitHub <span aria-hidden="true">↗</span></a>
-      <a class="button" href="https://www.linkedin.com/in/aleksei-trubin/" rel="me">LinkedIn <span aria-hidden="true">↗</span></a>
-      <a class="text-link" href="{{ '/academic/' | relative_url }}">Academic work <span aria-hidden="true">→</span></a>
+      <a class="button button--primary" href="#projects">View selected work</a>
+      <a class="button" href="https://www.linkedin.com/in/aleksei-trubin/" target="_blank" rel="me noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+      <a class="button" href="https://github.com/alekseitrubin" target="_blank" rel="me noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
     </div>
   </div>
 
@@ -27,7 +28,7 @@ permalink: /
     </picture>
     <div class="hero__profile-copy">
       <span class="mono-label">Profile / 01</span>
-      <p>Ph.D. in applied geoinformatics and remote sensing, working across data infrastructure, spatial analytics, and product development.</p>
+      <p>Production engineering informed by remote sensing research and hands-on product development.</p>
     </div>
   </aside>
 </section>
@@ -36,47 +37,49 @@ permalink: /
   <header class="section-heading">
     <div>
       <p class="eyebrow">Selected work</p>
-      <h2 id="projects-title">Systems built around real-world spatial problems.</h2>
+      <h2 id="projects-title">Selected systems and products.</h2>
     </div>
-    <p>Product and research work spanning regional satellite analysis, drone processing, mobile software, and forest management.</p>
+    <p>Work spanning regional Earth Observation screening, a shipped mobile product, and open-source spatial optimization.</p>
   </header>
 
   <div class="project-composition">
-    <!-- TODO(owner): Add a public ClimateScope / Landfill Watch URL and confirm a pilot shortlist count before publishing a numeric outcome. -->
     <article class="project-feature">
       <div class="project-feature__topline">
-        <span class="mono-label">01 / Earth Observation</span>
-        <span class="project-status">Regional screening system</span>
+        <span class="mono-label">01 / Featured case study</span>
+        <span class="project-status">Earth Observation · Regional screening</span>
       </div>
       <div class="project-feature__body">
         <div class="project-feature__intro">
-          <h3>ClimateScope /<br>Landfill Watch</h3>
-          <p class="project-summary">A geospatial product for identifying and prioritizing potential landfill and illegal dumping sites from Earth Observation and open spatial data.</p>
+          <p class="project-kicker">ClimateScope</p>
+          <h3>Landfill<br>Watch</h3>
+          <p class="project-summary">A regional Earth Observation screening system that narrows large search areas into a small set of high-priority landfill candidates for expert review.</p>
         </div>
-        <dl class="project-feature__details">
+        <div class="project-feature__evidence">
+          <div class="case-metric" aria-label="21 candidates reduced to 6 candidates">
+            <strong>21 <span aria-hidden="true">→</span> 6</strong>
+            <span>candidates</span>
+            <p>Regional screening reduced the review set by 71% in a Moldova case study.</p>
+          </div>
+          <dl class="project-feature__details">
           <div>
-            <dt>Problem</dt>
-            <dd>Regional review is too broad and time-intensive for manual inspection alone.</dd>
+            <dt>System</dt>
+            <dd>Reproducible feature extraction, classification, and ranking across satellite, land-cover, and contextual spatial data.</dd>
           </div>
           <div>
-            <dt>Built</dt>
-            <dd>A reproducible feature, classification, and ranking workflow combining satellite signals with land-cover and contextual data.</dd>
+            <dt>Review</dt>
+            <dd>Candidates are ranked for expert inspection, replacing broad manual search with a focused operational queue.</dd>
           </div>
-          <div>
-            <dt>Outcome</dt>
-            <dd>Narrows a large search area into a smaller set of high-priority candidates for expert review.</dd>
-          </div>
-        </dl>
+          </dl>
+        </div>
       </div>
       <footer class="project-feature__footer">
-        <p class="mono-label">Spatial screening / classification / prioritization</p>
+        <p class="mono-label">Screening / classification / prioritization</p>
         <ul class="tag-list" aria-label="ClimateScope technologies">
-          <li>Python</li><li>GeoPandas</li><li>Sentinel-2</li><li>Random Forest</li><li>OSM</li><li>CORINE</li><li>ESA WorldCover</li>
+          <li>Python</li><li>GeoPandas</li><li>Sentinel-2</li><li>Random Forest</li><li>OSM</li><li>CORINE</li>
         </ul>
       </footer>
     </article>
 
-    <!-- TODO(owner): Replace the reserved media slot with a real application screenshot and add a public product or store URL when ready. -->
     <article class="project-product">
       <div class="project-product__copy">
         <div class="project-product__topline">
@@ -101,19 +104,18 @@ permalink: /
           <li>React Native</li><li>iOS</li><li>Android</li><li>Firebase</li><li>Mobile product</li>
         </ul>
       </div>
-      <figure class="product-media" aria-label="Reserved space for a WaterSaver application screenshot">
-        <div class="product-media__screen">
-          <span class="mono-label">Application screenshot</span>
-          <p>Reserved media slot</p>
+      <figure class="product-media">
+        <div class="product-media__device">
+          <img src="{{ '/assets/img/watersaver-iphone.png' | relative_url }}" width="1320" height="2868" loading="lazy" decoding="async" alt="WaterSaver iPhone app timer screen showing water use, savings, daily goal, and start control">
         </div>
-        <figcaption>Product interface image to be added when available.</figcaption>
+        <figcaption>WaterSaver timer interface on iOS.</figcaption>
       </figure>
     </article>
 
     <article class="project-research">
       <div class="project-research__meta">
         <span class="mono-label">03 / Open source</span>
-        <a class="project-link" href="https://github.com/alekseitrubin/tanabbo-forestedge" aria-label="View TANABBO Forest Edge Optimization on GitHub">Repository <span aria-hidden="true">↗</span></a>
+        <a class="project-link" href="https://github.com/alekseitrubin/tanabbo-forestedge" target="_blank" rel="noopener noreferrer" aria-label="View TANABBO Forest Edge Optimization on GitHub">Repository <span aria-hidden="true">↗</span></a>
       </div>
       <div class="project-research__title">
         <h3>TANABBO</h3>
@@ -125,7 +127,7 @@ permalink: /
       </div>
       <div class="project-research__links">
         <p>Python · GRASS GIS · Jupyter · Remote sensing</p>
-        <a class="text-link" href="https://github.com/tanabbo/tanabbo">Core project <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="https://github.com/tanabbo/tanabbo" target="_blank" rel="noopener noreferrer">Core project <span aria-hidden="true">↗</span></a>
       </div>
     </article>
   </div>
@@ -134,19 +136,19 @@ permalink: /
 <section class="section impact" aria-labelledby="impact-title">
   <header class="section-heading section-heading--compact">
     <div>
-      <p class="eyebrow">Engineering impact</p>
-      <h2 id="impact-title">Measured improvements, kept in context.</h2>
+      <p class="eyebrow">Outcomes</p>
+      <h2 id="impact-title">Selected engineering impact.</h2>
     </div>
   </header>
   <div class="metrics-band">
     <article class="metric">
       <span class="mono-label">01</span>
-      <strong>20%</strong>
+      <strong>~20%</strong>
       <p>lower database management costs after an Oracle-to-PostgreSQL migration.</p>
     </article>
     <article class="metric">
       <span class="mono-label">02</span>
-      <strong>30%</strong>
+      <strong>~30%</strong>
       <p>improvement in query performance through the migration and Databricks workflow.</p>
     </article>
     <article class="metric">
@@ -156,7 +158,7 @@ permalink: /
     </article>
     <article class="metric">
       <span class="mono-label">04</span>
-      <strong>70%</strong>
+      <strong>~70%</strong>
       <p>less manual validation and deployment intervention through FME and Python automation.</p>
     </article>
   </div>
@@ -166,9 +168,9 @@ permalink: /
   <header class="section-heading">
     <div>
       <p class="eyebrow">Experience</p>
-      <h2 id="experience-title">Data infrastructure meets applied geospatial work.</h2>
+      <h2 id="experience-title">Production systems, spatial by design.</h2>
     </div>
-    <p>Professional work across telecommunications, environmental consulting, climate technology, research, and forestry.</p>
+    <p>Recent roles in production data infrastructure and applied geospatial engineering, with earlier work across research, climate technology, and forestry.</p>
   </header>
 
   <div class="timeline">
@@ -178,12 +180,12 @@ permalink: /
         <time datetime="2024-06">Jun 2024 — Present</time>
       </div>
       <div class="timeline-item__content">
-        <h3>AT&amp;T</h3>
+        <h3>AT&amp;T / Infosys</h3>
         <p class="timeline-item__role">Data Engineer (GIS)</p>
         <ul>
-          <li>Migrated a critical Oracle database to PostgreSQL using Databricks, reducing management costs by 20% and improving query performance by 30%.</li>
-          <li>Designed and optimized PostGIS queries to preserve spatial analysis capabilities without additional proprietary GIS products.</li>
-          <li>Improved PostgreSQL functions and procedures by up to 50%, and automated validation and deployment workflows with FME and Python.</li>
+          <li>Built and maintained production geospatial data infrastructure for telecommunications workflows using PostgreSQL and PostGIS.</li>
+          <li>Migrated a critical Oracle database to PostgreSQL through Databricks pipelines, lowering management costs by ~20% and improving query performance by ~30%.</li>
+          <li>Optimized database functions by up to 50% and reduced manual validation and deployment intervention by ~70% with FME and Python automation.</li>
         </ul>
       </div>
     </article>
@@ -198,52 +200,17 @@ permalink: /
         <p class="timeline-item__role">Data Scientist / Research Assistant</p>
         <ul>
           <li>Processed geophysical, LiDAR, and optical data for agricultural, archaeological, and environmental site analysis, reaching 91.7% reported analysis accuracy.</li>
-          <li>Built client dashboards and reports with Python, Mapbox, Leaflet, Power BI, and ArcGIS Online.</li>
-          <li>Automated Python processing workflows, reducing processing time by 30%.</li>
+          <li>Automated Python processing workflows, reducing processing time by 30%, and delivered client-facing spatial dashboards and reports.</li>
         </ul>
       </div>
     </article>
 
-    <article class="timeline-item timeline-item--compact">
-      <div class="timeline-item__meta">
-        <span class="timeline-item__number" aria-hidden="true">03</span>
-        <time datetime="2020-12">Dec 2020 — Feb 2021</time>
-      </div>
-      <div class="timeline-item__content">
-        <h3>Raincoat</h3>
-        <p class="timeline-item__role">Data Scientist Intern</p>
-        <p>Integrated three new data resources into remote-sensing model development for a climate and insurance startup.</p>
-      </div>
-    </article>
-
-    <article class="timeline-item timeline-item--compact">
-      <div class="timeline-item__meta">
-        <span class="timeline-item__number" aria-hidden="true">04</span>
-        <time datetime="2019-10">Oct 2019 — Mar 2024</time>
-      </div>
-      <div class="timeline-item__content">
-        <h3>Czech University of Life Sciences Prague</h3>
-        <p class="timeline-item__role">Researcher (R1)</p>
-        <ul>
-          <li>Applied statistics and machine learning to tabular, GIS, and remote-sensing data in peer-reviewed forestry and environmental research.</li>
-          <li>Developed two spatial optimization modules for the open-source TANABBO forest pest management model.</li>
-        </ul>
-      </div>
-    </article>
-
-    <article class="timeline-item timeline-item--compact">
-      <div class="timeline-item__meta">
-        <span class="timeline-item__number" aria-hidden="true">05</span>
-        <time datetime="2016-05">May 2016 — Sep 2019</time>
-      </div>
-      <div class="timeline-item__content">
-        <h3>Titan Group</h3>
-        <p class="timeline-item__role">GIS Lead Specialist / FSC Certification Expert</p>
-        <ul>
-          <li>Improved GIS resolution 128-fold across an eight-million-hectare forest management area.</li>
-          <li>Automated reporting for more than 3,000 sites, saving approximately €20,000 annually.</li>
-          <li>Supported mapping and stakeholder coordination for 3,500 km² of forest conservation areas.</li>
-        </ul>
+    <article class="timeline-previous">
+      <span class="mono-label">Previously</span>
+      <div>
+        <h3>Czech University of Life Sciences Prague <span aria-hidden="true">·</span> Titan Group <span aria-hidden="true">·</span> Raincoat</h3>
+        <p>Research in remote sensing and forest health, large-scale forestry GIS and reporting automation, and climate-model data integration.</p>
+        <a class="text-link" href="{{ '/academic/' | relative_url }}">Full academic and earlier experience <span aria-hidden="true">→</span></a>
       </div>
     </article>
   </div>
@@ -253,29 +220,24 @@ permalink: /
   <header class="section-heading section-heading--compact">
     <div>
       <p class="eyebrow">Capabilities</p>
-      <h2 id="skills-title">A focused technical toolkit.</h2>
+      <h2 id="skills-title">Core capabilities.</h2>
     </div>
   </header>
   <div class="capability-grid">
     <article>
       <span class="mono-label">01</span>
-      <h3>Data engineering</h3>
-      <p>PostgreSQL · PostGIS · Databricks · PySpark · Snowflake · dbt · FME</p>
+      <h3>Data platforms</h3>
+      <p>PostgreSQL · PostGIS · Databricks · PySpark</p>
     </article>
     <article>
       <span class="mono-label">02</span>
-      <h3>Geospatial &amp; Earth Observation</h3>
-      <p>GeoPandas · Rasterio · GDAL · QGIS · ArcGIS · GRASS GIS · LiDAR</p>
+      <h3>Geospatial systems</h3>
+      <p>GeoPandas · Rasterio · GDAL · Earth Observation · LiDAR</p>
     </article>
     <article>
       <span class="mono-label">03</span>
-      <h3>Software engineering</h3>
-      <p>Python · SQL · R · TypeScript · React Native · Docker · Git · Linux</p>
-    </article>
-    <article>
-      <span class="mono-label">04</span>
-      <h3>Analysis &amp; visualization</h3>
-      <p>scikit-learn · pandas · NumPy · xarray · Mapbox · Leaflet · Power BI · Tableau</p>
+      <h3>Product engineering</h3>
+      <p>Python · SQL · TypeScript · React Native · Docker</p>
     </article>
   </div>
 </section>
@@ -287,23 +249,23 @@ permalink: /
     <p>My academic work connects remote sensing, geospatial engineering, environmental analytics, and applied machine learning—particularly for forest health and disturbance monitoring.</p>
     <div class="link-row">
       <a class="button button--primary" href="{{ '/academic/' | relative_url }}">Academic CV</a>
-      <a class="button" href="https://www.researchgate.net/profile/Aleksei-Trubin" rel="me">ResearchGate <span aria-hidden="true">↗</span></a>
+      <a class="button" href="https://www.researchgate.net/profile/Aleksei-Trubin" target="_blank" rel="me noopener noreferrer">ResearchGate <span aria-hidden="true">↗</span></a>
     </div>
   </div>
   <div class="publication-list" aria-label="Selected publications">
     <article>
       <span class="mono-label">2024 / Forest Ecology and Management</span>
-      <h3><a href="https://doi.org/10.1016/j.foreco.2024.121838">Detection of green attack and bark beetle susceptibility in Norway spruce</a></h3>
+      <h3><a href="https://doi.org/10.1016/j.foreco.2024.121838" target="_blank" rel="noopener noreferrer">Detection of green attack and bark beetle susceptibility in Norway spruce</a></h3>
       <p>PlanetScope multispectral imagery for tri-stage spectral separability analysis.</p>
     </article>
     <article>
       <span class="mono-label">2023 / Frontiers in Forests and Global Change</span>
-      <h3><a href="https://doi.org/10.3389/ffgc.2023.1130721">Detection of susceptible Norway spruce to bark beetle attack</a></h3>
+      <h3><a href="https://doi.org/10.3389/ffgc.2023.1130721" target="_blank" rel="noopener noreferrer">Detection of susceptible Norway spruce to bark beetle attack</a></h3>
       <p>Satellite-based analysis of pre-visual forest stress signals.</p>
     </article>
     <article>
       <span class="mono-label">2022 / Forest Ecology and Management</span>
-      <h3><a href="https://doi.org/10.1016/j.foreco.2021.119829">Modelling tree mortality using remote sensing and climate data</a></h3>
+      <h3><a href="https://doi.org/10.1016/j.foreco.2021.119829" target="_blank" rel="noopener noreferrer">Modelling tree mortality using remote sensing and climate data</a></h3>
       <p>Analysis of the northernmost European spruce bark beetle outbreak.</p>
     </article>
   </div>
@@ -312,8 +274,8 @@ permalink: /
 <section class="section about" id="about" aria-labelledby="about-title">
   <div class="about__copy">
     <p class="eyebrow">About</p>
-    <h2 id="about-title">Engineer, applied researcher, and product builder.</h2>
-    <p>I work where spatial data becomes infrastructure: designing reliable databases and pipelines, extracting meaning from satellite and drone data, and turning that work into tools people can use.</p>
+    <h2 id="about-title">Where spatial data becomes infrastructure.</h2>
+    <p>I design reliable databases and production pipelines, build Earth Observation workflows, and turn spatial analysis into systems and products that support real-world decisions.</p>
     <p>Based in Prague and open to conversations with engineering teams, climate-tech organizations, and research or product collaborators.</p>
     <a class="text-link text-link--prominent" href="mailto:trubin.a@outlook.com">trubin.a@outlook.com <span aria-hidden="true">↗</span></a>
   </div>
